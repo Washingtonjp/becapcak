@@ -1,0 +1,49 @@
+1) Desenhe um quadrado de 10 linhas por 10 colunas. Desenhar as bordas com “*”, preencher com “x”.
+
+2) Esse aqui é um desafio. Faça um código para obter esse resultado:
+
+        *
+        **
+        ***
+        ****
+        *****
+        ******
+        *******
+        ********
+        *********
+        **********
+
+3) Desenhar uma pirâmide. O tamanho da base deve ser informado. Se o tamanho da base for numero par, 
+o topo terá "**", se for ímpar "*". Então, cada nível é preenchido até que o nível da base tenha o 
+mesmo número de "*" que o número informado.
+
+    **
+   ****
+  ******
+ ********
+**********
+
+       *
+      ***
+     *****
+    *******
+   *********
+  ***********
+ *************
+***************
+
+
+4) Quer mais? Tente fazer uma letra V, usando asteriscos “*” e
+underscores "_".
+
+_***************_
+*_*************_*
+**_***********_**
+***_*********_***
+****_*******_****
+*****_*****_*****
+******_***_******
+*******_*_*******
+********_********
+
+
